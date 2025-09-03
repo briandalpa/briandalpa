@@ -1,7 +1,7 @@
 # 👋🏻 Hi, I'm Briand!
 
-🚀 Career switcher learning **full-stack web development**.  
-💻 Currently building a **real-time Point of Sales app** with **Next.js** for my portfolio.  
+🚀 Career switcher learning **full stack web development**.  
+💻 Currently building a **realtime Point of Sales app** with **Next.js** for my portfolio.  
 
 ---
 
@@ -12,20 +12,20 @@
 ---
 
 ## 📚 Currently Learning
-- Advanced **Next.js** (API routes, authentication, SSR/ISR)  
-- Database design with **PostgreSQL + Supabase**  
-- Building scalable **full-stack apps**  
+- ☁️ Cloud & Gen AI on AWS 
+- 🔧 Backend development with JavaScript
+- 💻 Full stack web development with Next.js
 
 ---
 
 ## 📂 Projects
 
 - 🛒 [Bag It Now](https://github.com/briandalpa/bag-it-now) — shopping list app built with React (public, portfolio project)  
-- 💳 Real-time Point of Sales — built with Next.js, Supabase & Tailwind CSS (private, portfolio project)
+- 💳 Realtime Point of Sales — built with Next.js, Supabase & Tailwind CSS (private, portfolio project)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Briand's GitHub stats](https://github-readme-stats.vercel.app/api?username=briandalpa&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briandalpa&layout=compact&theme=tokyonight)
+![Briand's GitHub stats](https://github-readme-stats.vercel.app/api?username=briandalpa&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briandalpa&layout=compact&theme=radical)
