@@ -29,10 +29,3 @@
 
 ![Briand's GitHub stats](https://github-readme-stats.vercel.app/api?username=briandalpa&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briandalpa&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect with Me
-
-- [LinkedIn](https://linkedin.com/in/briandalpa)  
-- [GitHub](https://github.com/briandalpa)
