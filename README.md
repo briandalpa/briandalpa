@@ -1,7 +1,6 @@
 # 👋🏻 Hi, I'm Briand!
 
 🚀 Career switcher learning **full stack web development**.  
-💻 Currently building a **realtime Point of Sales app** with **Next.js** for my portfolio.  
 
 ---
 
